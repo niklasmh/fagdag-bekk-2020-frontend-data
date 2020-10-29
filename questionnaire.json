@@ -1,0 +1,24 @@
+{
+    "title": "Blazor day at Clarion",
+    "surveyElements": [
+        {
+            "type": "text",
+            "question": "What's it like working with Blazor?"
+        },
+        {
+            "type": "choice",
+            "question": "Which group are you in?",
+            "choices": [
+                "Design",
+                "Frontend",
+                "Machine learning"
+            ]
+        },
+        {
+            "type": "scale",
+            "question": "How would you rate this seminar?",
+            "min": 1,
+            "max": 6
+        }
+    ]
+}
